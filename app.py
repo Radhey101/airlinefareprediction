@@ -1,5 +1,5 @@
 import streamlit as st
-import scrap_data
+import scrap_data as scrap_data
 import process_data as preprocess
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
